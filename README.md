@@ -118,7 +118,3 @@ Then open the assignment notebook and run cells top-to-bottom.
 ## Author
 
 Nouhan Doumbouya
-
-```
-::contentReference[oaicite:0]{index=0}
-```
