@@ -1,4 +1,3 @@
-````md
 # Predicting Air Quality in Dar es Salaam (PM2.5) — Time Series Forecasting
 
 This project builds an end-to-end time-series workflow to extract, clean, analyze, and forecast **hourly PM2.5** readings for **Dar es Salaam** using a MongoDB air-quality dataset and an **AutoRegressive (AutoReg)** model with **walk-forward validation (WFV)**.
