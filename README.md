@@ -1,7 +1,3 @@
-I understand. You want **one single README.md** where the **“How to Reproduce” section explicitly shows 1), 2), 3)** (not hidden as headings), and **Key Skills Demonstrated** is clearly Markdown.
-
-Copy/paste this entire block into `README.md`:
-
 ````md
 # Predicting Air Quality in Dar es Salaam (PM2.5) — Time Series Forecasting
 
